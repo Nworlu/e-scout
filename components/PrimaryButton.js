@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
       height: 40,
       justifyContent: 'center',
       borderRadius: 5,
-      overflow: 'hidden'
+      overflow: 'hidden',
     },
     innerText:{
       textAlign: 'center',
